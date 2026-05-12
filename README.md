@@ -11,6 +11,7 @@ I am Rafael Augusto - Software Engineer with the experience of 11 years. Become 
 - [Popupui](https://github.com/RafaelAugustoS/react-native-popup-ui) - A simple and fully customizable React Native component that implements a popup ui.
 - [cortex-claude](https://github.com/RafaelAugustoS/cortex-claude) - Memory that remembers what matters. Built for Claude Code.
 - [JobMorph](https://www.jobmorphai.com/) - Your CV, Optimized for Every Job in Seconds.
+- [Cortex Agent]() -  
 
 ---
 ⭐️ From https://github.com/rafaelaugustos/
