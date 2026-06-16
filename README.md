@@ -11,9 +11,10 @@ I am Rafael Augusto - Software Engineer with the experience of 11 years. Become 
 - [Popupui](https://github.com/RafaelAugustoS/react-native-popup-ui) - A simple and fully customizable React Native component that implements a popup ui.
 - [cortex-claude](https://github.com/RafaelAugustoS/cortex-claude) - Memory that remembers what matters. Built for Claude Code.
 - [JobMorph](https://www.jobmorphai.com/) - Your CV, Optimized for Every Job in Seconds.
-- [Cortex Agent](https://getcortexlabs.com/) -
-- [Cortex Code](https://getcortexlabs.com/) -
-- [Cortex DB](https://getcortexlabs.com/) - 
+- [Ted Agent](https://getcortexlabs.com/) - Your AI agent, living in your menu bar.
+- [Marshall Code](https://getcortexlabs.com/) - A native macOS code editor that ships with batteries: tree-sitter, Git, and a built-in API client.
+- [Lilly DB](https://getcortexlabs.com/) - One beautiful native client for PostgreSQL, MySQL, SQLite, Redis, MongoDB & Trino.
+- [Barney Kube](https://getcortexlabs.com/products/barney) — Kubernetes for macOS, without the 500 MB suit — native, live, ~9 MB.
 
 ---
 ⭐️ From https://github.com/rafaelaugustos/
