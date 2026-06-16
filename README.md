@@ -9,7 +9,7 @@ I am Rafael Augusto - Software Engineer with the experience of 11 years. Become 
 
 ⚙️ I also maintain a few open-source projects:
 - [Popupui](https://github.com/RafaelAugustoS/react-native-popup-ui) - A simple and fully customizable React Native component that implements a popup ui.
-- [cortex-claude](https://github.com/RafaelAugustoS/cortex-claude) - Memory that remembers what matters. Built for Claude Code.
+- [Cortex Claude](https://github.com/RafaelAugustoS/cortex-claude) - Persistent memory for Claude Code. Remembers what matters, ~66% fewer tokens.
 - [JobMorph](https://www.jobmorphai.com/) - Your CV, Optimized for Every Job in Seconds.
 - [Ted Agent](https://getcortexlabs.com/) - Your AI agent, living in your menu bar.
 - [Marshall Code](https://getcortexlabs.com/) - A native macOS code editor that ships with batteries: tree-sitter, Git, and a built-in API client.
