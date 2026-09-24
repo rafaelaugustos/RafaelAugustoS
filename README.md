@@ -16,6 +16,7 @@ A lot of my work also involves APIs, microservices, distributed systems, CI/CD, 
 Most of my side projects are tools I wanted to use myself and couldn't quite find the way I wanted them.
 
 - [Lily DB](https://getcortexlabs.com/products/lily/) — A native database workspace for macOS. Nine database engines in one app, with AI-assisted exploration, performance tracing, schema tooling, cross-engine migrations, data movement and safety guardrails.
+- [Kiln](https://github.com/rafaelaugustos/kiln) — Persistent background jobs for Go, inspired by Hangfire. SQL-backed queues, retries, recurring jobs, batches, continuations, concurrency limits, transactional enqueue and a built-in dashboard.
 - [Cortex](https://getcortexlabs.com/products/cortex/) — Persistent memory for Claude Code, built around local-first and token-efficient context.
 - [Barney Kube](https://getcortexlabs.com/products/barney/) — A lightweight native Kubernetes client for macOS with live resources, terminal access, port forwarding and kubectl-compatible authentication.
 - [Cortex Shelf](https://getcortexlabs.com/products/shelf/) — A small productivity layer for the Mac notch with clipboard history, notes, screenshots, files and a drop zone.
