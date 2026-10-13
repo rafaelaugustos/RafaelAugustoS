@@ -23,6 +23,12 @@ Most of my side projects are tools I wanted to use myself and couldn't quite fin
 - [Ted Agent](https://getcortexlabs.com/products/ted/) — A native macOS AI agent that lives in the menu bar.
 - [JobMorph](https://www.jobmorphai.com/) — AI-powered CV optimization for job applications.
 - [Popup UI](https://github.com/RafaelAugustoS/react-native-popup-ui) — A customizable popup component for React Native.
+- [Vue Router NS](https://github.com/rafaelaugustos/vue-router-ns) - A type-safe router for NativeScript-Vue 3, bringing the familiar Vue Router experience to native navigation with seamless transitions, guards, deep linking, and modal support.
+- [Orbit](https://orbit.getcortexlabs.com/) - Your servers. Your cloud. Zero complexity.
+- [Yummo](https://getcortexlabs.com/products/yummo/) - A restaurant OS on web, Mac, Windows, iPhone and Android: menu, orders, kitchen, customers, team, money and Lily AI together. Free to operate your restaurant, with beta features opening one by one.
+- [Marshall MQ](https://getcortexlabs.com/products/marshall/) - A native macOS client for Kafka and RabbitMQ — open it, see what's in your queues, find the message that broke, and never be told a zero that was really an "I don't know".
+
+
 
 You can find the Cortex Labs projects at [getcortexlabs.com](https://getcortexlabs.com/).
 
