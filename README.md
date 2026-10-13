@@ -6,8 +6,7 @@ I've worked on fintech, payments, insurance, high-traffic products and developer
 
 ### What I work with
 
-`Go` `TypeScript` `React` `React Native` `Node.js` `Kotlin` `.NET`  
-`PostgreSQL` `MySQL` `MongoDB` `Redis` `Docker` `Kubernetes` `AWS`
+`Go` `TypeScript` `React` `React Native` `Node.js` `Kotlin` `.NET` `PostgreSQL` `MySQL` `MongoDB` `Redis` `Docker` `Kubernetes` `AWS` `PyTorch` `Transformers` `LangChain` `LangGraph` `Hugging Face` `Ollama` `OpenAI API` `MCP` `Embeddings` `RAG` `Vector Databases`
 
 A lot of my work also involves APIs, microservices, distributed systems, CI/CD, databases and infrastructure.
 
