@@ -29,6 +29,8 @@ Most of these started with a pretty simple thought: *"I wish this existed."*
 - **[Marshall MQ](https://getcortexlabs.com/products/marshall/)**: A native Kafka and RabbitMQ client for macOS. Inspect queues, track down troublesome messages and understand what's really happening.
 - **[Vue Router NS](https://github.com/rafaelaugustos/vue-router-ns)**: Bringing the Vue Router experience to NativeScript-Vue 3, with TypeScript, native navigation, guards, deep links and modals.
 - **[Popup UI](https://github.com/RafaelAugustoS/react-native-popup-ui)**: Customizable popups for React Native.
+- **[Vue Router NS](https://vue-router-ns.rafaelaugusto.dev/)**: Bringing the Vue Router experience to NativeScript-Vue 3, without giving up native navigation. Typed routes, guards, deep links, modals and tab navigation.
+- **[Jolt](https://jolt.rafaelaugusto.dev/)**: Making animations in NativeScript feel effortless. Springs, keyframes, presets, stagger and sequences, all powered by native animations on iOS and Android. Works across NativeScript frameworks.
 
 **AI & productivity**
 
