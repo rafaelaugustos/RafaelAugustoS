@@ -30,6 +30,7 @@ Most of these started with a pretty simple thought: *"I wish this existed."*
 - **[Vue Router NS](https://vue-router-ns.rafaelaugusto.dev/)**: Bringing the Vue Router experience to NativeScript-Vue 3, with TypeScript, native navigation, guards, deep links and modals.
 - **[Popup UI](https://github.com/RafaelAugustoS/react-native-popup-ui)**: Customizable popups for React Native.
 - **[Jolt](https://jolt.rafaelaugusto.dev/)**: Making animations in NativeScript feel effortless. Springs, keyframes, presets, stagger and sequences, all powered by native animations on iOS and Android. Works across NativeScript frameworks.
+- **[NativeScript Preact](https://github.com/rafaelaugustos/nativescript-preact)**: Build truly native iOS and Android apps with Preact. JSX, hooks, and native UI components powered by NativeScript. No WebViews.
 
 **AI & productivity**
 
